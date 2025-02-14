@@ -1,5 +1,9 @@
 ## ❤️ **Hwang Seung Hye**
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/seunghye-study?pet-id=1" width="1000" height="120"/>
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghye-study)](https://github.com/anuraghazra/github-readme-stats)
 
 
