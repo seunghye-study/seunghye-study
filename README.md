@@ -1,4 +1,4 @@
-### Hwang Seung Hye 👋
+## ❤️ **Hwang Seung Hye**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghye-study)](https://github.com/anuraghazra/github-readme-stats)
 
