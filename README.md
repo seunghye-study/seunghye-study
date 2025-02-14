@@ -11,7 +11,7 @@
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&amp;style=for-the-badge&amp;logo=Unreal_Engine%20Studio&amp;logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio&amp;logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8a2be2.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio&amp;logoColor=white)
 
 
 <!--
