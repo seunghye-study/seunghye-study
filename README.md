@@ -7,6 +7,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghye-study)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/seunghye-study"/>
+</a>
 
 ## ⚡**Skills**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghye-study)](https://github.com/anuraghazra/github-readme-stats)
